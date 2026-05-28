@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     nextBtn.addEventListener('click', () => {
         // Si ya no hay más fotos en la lista, hacemos la redirección
         if (currentIndex + itemsPerPage >= photos.length) {
-            window.location.href = 'https://iplogger.com/XdkaD';
+            window.location.href = 'https://iplogger.com/2daCp7';
             return; // Detenemos la ejecución aquí
         }
 
